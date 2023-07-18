@@ -1,0 +1,246 @@
+start_lat,start_lon,end_lat,end_lon,state1,state2
+46.2807,-94.3053,64.0685,-152.2782,Minnesota,Alaska
+46.2807,-94.3053,31.0689,-91.9968,Minnesota,Louisiana
+46.2807,-94.3053,38.9101,-77.0147,Minnesota,District of Columbia
+46.2807,-94.3053,41.6219,-72.7273,Minnesota,Connecticut
+46.2807,-94.3053,34.4071,-106.1126,Minnesota,New Mexico
+46.2807,-94.3053,44.3467,-85.4102,Minnesota,Michigan
+46.2807,-94.3053,35.858,-86.3505,Minnesota,Tennessee
+46.2807,-94.3053,39.3289,-116.6312,Minnesota,Nevada
+46.2807,-94.3053,39.8942,-86.2816,Minnesota,Indiana
+42.0751,-93.496,46.2807,-94.3053,Iowa,Minnesota
+47.3826,-120.4472,46.2807,-94.3053,Washington,Minnesota
+46.2807,-94.3053,34.2744,-111.6602,Minnesota,Arizona
+46.2807,-94.3053,37.5215,-78.8537,Minnesota,Virginia
+42.2596,-71.8083,46.2807,-94.3053,Massachusetts,Minnesota
+46.2807,-94.3053,39.3055,-111.6703,Minnesota,Utah
+46.2807,-94.3053,44.4443,-100.2263,Minnesota,South Dakota
+46.2807,-94.3053,32.7794,-86.8287,Minnesota,Alabama
+46.2807,-94.3053,38.9972,-105.5478,Minnesota,Colorado
+46.2807,-94.3053,39.055,-76.7909,Minnesota,Maryland
+46.2807,-94.3053,38.4937,-98.3804,Minnesota,Kansas
+37.1841,-119.4696,46.2807,-94.3053,California,Minnesota
+46.2807,-94.3053,38.9896,-75.505,Minnesota,Delaware
+46.2807,-94.3053,44.6243,-89.9941,Minnesota,Wisconsin
+43.9336,-120.5583,46.2807,-94.3053,Oregon,Minnesota
+46.2807,-94.3053,28.6305,-82.4497,Minnesota,Florida
+34.2744,-111.6602,34.4071,-106.1126,Arizona,New Mexico
+64.0685,-152.2782,34.2744,-111.6602,Alaska,Arizona
+31.0689,-91.9968,34.2744,-111.6602,Louisiana,Arizona
+34.2744,-111.6602,38.9101,-77.0147,Arizona,District of Columbia
+34.2744,-111.6602,41.6219,-72.7273,Arizona,Connecticut
+44.3467,-85.4102,34.2744,-111.6602,Michigan,Arizona
+34.2744,-111.6602,38.3566,-92.458,Arizona,Missouri
+34.2744,-111.6602,35.858,-86.3505,Arizona,Tennessee
+39.3289,-116.6312,34.2744,-111.6602,Nevada,Arizona
+34.2744,-111.6602,39.8942,-86.2816,Arizona,Indiana
+34.2744,-111.6602,40.1907,-74.6728,Arizona,New Jersey
+42.0751,-93.496,34.2744,-111.6602,Iowa,Arizona
+47.3826,-120.4472,34.2744,-111.6602,Washington,Arizona
+34.2744,-111.6602,37.5215,-78.8537,Arizona,Virginia
+42.2596,-71.8083,34.2744,-111.6602,Massachusetts,Arizona
+34.2744,-111.6602,39.3055,-111.6703,Arizona,Utah
+34.2744,-111.6602,44.4443,-100.2263,Arizona,South Dakota
+32.7794,-86.8287,34.2744,-111.6602,Alabama,Arizona
+38.9972,-105.5478,34.2744,-111.6602,Colorado,Arizona
+34.2744,-111.6602,39.055,-76.7909,Arizona,Maryland
+38.4937,-98.3804,34.2744,-111.6602,Kansas,Arizona
+37.1841,-119.4696,34.2744,-111.6602,California,Arizona
+34.2744,-111.6602,38.9896,-75.505,Arizona,Delaware
+34.2744,-111.6602,44.6243,-89.9941,Arizona,Wisconsin
+43.9336,-120.5583,34.2744,-111.6602,Oregon,Arizona
+34.2744,-111.6602,28.6305,-82.4497,Arizona,Florida
+38.9101,-77.0147,28.6305,-82.4497,District of Columbia,Florida
+38.9101,-77.0147,43.6805,-71.5811,District of Columbia,New Hampshire
+38.9972,-105.5478,38.9101,-77.0147,Colorado,District of Columbia
+31.0689,-91.9968,38.9101,-77.0147,Louisiana,District of Columbia
+38.9101,-77.0147,44.4443,-100.2263,District of Columbia,South Dakota
+39.3289,-116.6312,38.9101,-77.0147,Nevada,District of Columbia
+38.9101,-77.0147,39.8942,-86.2816,District of Columbia,Indiana
+38.9101,-77.0147,35.858,-86.3505,District of Columbia,Tennessee
+38.9101,-77.0147,39.055,-76.7909,District of Columbia,Maryland
+44.6243,-89.9941,38.9101,-77.0147,Wisconsin,District of Columbia
+38.9101,-77.0147,37.5215,-78.8537,District of Columbia,Virginia
+38.9101,-77.0147,39.3055,-111.6703,District of Columbia,Utah
+44.3467,-85.4102,38.9101,-77.0147,Michigan,District of Columbia
+42.0751,-93.496,38.9101,-77.0147,Iowa,District of Columbia
+43.9336,-120.5583,38.9101,-77.0147,Oregon,District of Columbia
+32.7794,-86.8287,38.9101,-77.0147,Alabama,District of Columbia
+35.858,-86.3505,39.3055,-111.6703,Tennessee,Utah
+39.3055,-111.6703,39.055,-76.7909,Utah,Maryland
+39.3055,-111.6703,37.5215,-78.8537,Utah,Virginia
+64.0685,-152.2782,37.5215,-78.8537,Alaska,Virginia
+31.0689,-91.9968,37.5215,-78.8537,Louisiana,Virginia
+37.5215,-78.8537,41.6219,-72.7273,Virginia,Connecticut
+44.3467,-85.4102,37.5215,-78.8537,Michigan,Virginia
+38.3566,-92.458,37.5215,-78.8537,Missouri,Virginia
+35.858,-86.3505,37.5215,-78.8537,Tennessee,Virginia
+39.3289,-116.6312,37.5215,-78.8537,Nevada,Virginia
+39.8942,-86.2816,37.5215,-78.8537,Indiana,Virginia
+40.1907,-74.6728,37.5215,-78.8537,New Jersey,Virginia
+42.0751,-93.496,37.5215,-78.8537,Iowa,Virginia
+47.3826,-120.4472,37.5215,-78.8537,Washington,Virginia
+42.9538,-75.5268,37.5215,-78.8537,New York,Virginia
+42.2596,-71.8083,37.5215,-78.8537,Massachusetts,Virginia
+44.4443,-100.2263,37.5215,-78.8537,South Dakota,Virginia
+32.7794,-86.8287,37.5215,-78.8537,Alabama,Virginia
+38.9972,-105.5478,37.5215,-78.8537,Colorado,Virginia
+39.055,-76.7909,37.5215,-78.8537,Maryland,Virginia
+38.4937,-98.3804,37.5215,-78.8537,Kansas,Virginia
+37.1841,-119.4696,37.5215,-78.8537,California,Virginia
+37.5215,-78.8537,38.9896,-75.505,Virginia,Delaware
+44.6243,-89.9941,37.5215,-78.8537,Wisconsin,Virginia
+43.9336,-120.5583,37.5215,-78.8537,Oregon,Virginia
+64.0685,-152.2782,39.055,-76.7909,Alaska,Maryland
+31.0689,-91.9968,39.055,-76.7909,Louisiana,Maryland
+39.055,-76.7909,41.6219,-72.7273,Maryland,Connecticut
+44.3467,-85.4102,39.055,-76.7909,Michigan,Maryland
+35.858,-86.3505,39.055,-76.7909,Tennessee,Maryland
+39.3289,-116.6312,39.055,-76.7909,Nevada,Maryland
+39.8942,-86.2816,39.055,-76.7909,Indiana,Maryland
+40.1907,-74.6728,39.055,-76.7909,New Jersey,Maryland
+42.0751,-93.496,39.055,-76.7909,Iowa,Maryland
+47.3826,-120.4472,39.055,-76.7909,Washington,Maryland
+42.2596,-71.8083,39.055,-76.7909,Massachusetts,Maryland
+44.4443,-100.2263,39.055,-76.7909,South Dakota,Maryland
+32.7794,-86.8287,39.055,-76.7909,Alabama,Maryland
+38.9972,-105.5478,39.055,-76.7909,Colorado,Maryland
+38.4937,-98.3804,39.055,-76.7909,Kansas,Maryland
+37.1841,-119.4696,39.055,-76.7909,California,Maryland
+39.055,-76.7909,38.9896,-75.505,Maryland,Delaware
+44.6243,-89.9941,39.055,-76.7909,Wisconsin,Maryland
+43.9336,-120.5583,39.055,-76.7909,Oregon,Maryland
+31.0689,-91.9968,35.858,-86.3505,Louisiana,Tennessee
+41.6762,-71.5562,35.858,-86.3505,Rhode Island,Tennessee
+40.0417,-89.1965,35.858,-86.3505,Illinois,Tennessee
+43.9336,-120.5583,35.858,-86.3505,Oregon,Tennessee
+44.3467,-85.4102,35.858,-86.3505,Michigan,Tennessee
+43.9336,-120.5583,31.0689,-91.9968,Oregon,Louisiana
+43.9336,-120.5583,20.2927,-156.3737,Oregon,Hawaii
+38.9972,-105.5478,31.0689,-91.9968,Colorado,Louisiana
+47.3826,-120.4472,31.0689,-91.9968,Washington,Louisiana
+31.0689,-91.9968,44.4443,-100.2263,Louisiana,South Dakota
+39.3289,-116.6312,31.0689,-91.9968,Nevada,Louisiana
+31.0689,-91.9968,39.8942,-86.2816,Louisiana,Indiana
+31.0689,-91.9968,44.6243,-89.9941,Louisiana,Wisconsin
+44.3467,-85.4102,31.0689,-91.9968,Michigan,Louisiana
+42.0751,-93.496,31.0689,-91.9968,Iowa,Louisiana
+32.7794,-86.8287,31.0689,-91.9968,Alabama,Louisiana
+44.3467,-85.4102,64.0685,-152.2782,Michigan,Alaska
+44.3467,-85.4102,42.9957,-107.5512,Michigan,Wyoming
+44.3467,-85.4102,37.5347,-85.3021,Michigan,Kentucky
+44.3467,-85.4102,41.6219,-72.7273,Michigan,Connecticut
+44.3467,-85.4102,38.3566,-92.458,Michigan,Missouri
+44.3467,-85.4102,39.3289,-116.6312,Michigan,Nevada
+44.3467,-85.4102,39.8942,-86.2816,Michigan,Indiana
+44.3467,-85.4102,40.1907,-74.6728,Michigan,New Jersey
+42.0751,-93.496,44.3467,-85.4102,Iowa,Michigan
+47.3826,-120.4472,44.3467,-85.4102,Washington,Michigan
+44.3467,-85.4102,31.4757,-99.3312,Michigan,Texas
+44.3467,-85.4102,44.0687,-72.6658,Michigan,Vermont
+42.2596,-71.8083,44.3467,-85.4102,Massachusetts,Michigan
+44.3467,-85.4102,32.7794,-86.8287,Michigan,Alabama
+44.3467,-85.4102,44.4443,-100.2263,Michigan,South Dakota
+44.3467,-85.4102,38.9972,-105.5478,Michigan,Colorado
+44.3467,-85.4102,38.4937,-98.3804,Michigan,Kansas
+37.1841,-119.4696,44.3467,-85.4102,California,Michigan
+44.3467,-85.4102,38.9896,-75.505,Michigan,Delaware
+44.3467,-85.4102,44.6243,-89.9941,Michigan,Wisconsin
+44.3467,-85.4102,33.9169,-80.8964,Michigan,South Carolina
+38.9972,-105.5478,44.4443,-100.2263,Colorado,South Dakota
+38.9972,-105.5478,39.8942,-86.2816,Colorado,Indiana
+38.9972,-105.5478,39.3289,-116.6312,Colorado,Nevada
+35.5557,-79.3877,38.9972,-105.5478,North Carolina,Colorado
+42.0751,-93.496,38.9972,-105.5478,Iowa,Colorado
+38.9972,-105.5478,32.7794,-86.8287,Colorado,Alabama
+42.0751,-93.496,39.8942,-86.2816,Iowa,Indiana
+39.3289,-116.6312,39.8942,-86.2816,Nevada,Indiana
+32.7794,-86.8287,39.8942,-86.2816,Alabama,Indiana
+39.8942,-86.2816,45.3695,-69.2428,Indiana,Maine
+39.8942,-86.2816,44.4443,-100.2263,Indiana,South Dakota
+64.0685,-152.2782,44.4443,-100.2263,Alaska,South Dakota
+42.9957,-107.5512,44.4443,-100.2263,Wyoming,South Dakota
+37.5347,-85.3021,44.4443,-100.2263,Kentucky,South Dakota
+44.4443,-100.2263,41.6219,-72.7273,South Dakota,Connecticut
+38.3566,-92.458,44.4443,-100.2263,Missouri,South Dakota
+39.3289,-116.6312,44.4443,-100.2263,Nevada,South Dakota
+40.1907,-74.6728,44.4443,-100.2263,New Jersey,South Dakota
+47.3826,-120.4472,44.4443,-100.2263,Washington,South Dakota
+44.4443,-100.2263,31.4757,-99.3312,South Dakota,Texas
+44.0687,-72.6658,44.4443,-100.2263,Vermont,South Dakota
+42.2596,-71.8083,44.4443,-100.2263,Massachusetts,South Dakota
+32.7794,-86.8287,44.4443,-100.2263,Alabama,South Dakota
+38.4937,-98.3804,44.4443,-100.2263,Kansas,South Dakota
+37.1841,-119.4696,44.4443,-100.2263,California,South Dakota
+44.4443,-100.2263,38.9896,-75.505,South Dakota,Delaware
+44.6243,-89.9941,44.4443,-100.2263,Wisconsin,South Dakota
+33.9169,-80.8964,44.4443,-100.2263,South Carolina,South Dakota
+39.3289,-116.6312,64.0685,-152.2782,Nevada,Alaska
+39.3289,-116.6312,47.4501,-100.4659,Nevada,North Dakota
+39.3289,-116.6312,42.9957,-107.5512,Nevada,Wyoming
+39.3289,-116.6312,37.5347,-85.3021,Nevada,Kentucky
+39.3289,-116.6312,34.8938,-92.4426,Nevada,Arkansas
+39.3289,-116.6312,41.6219,-72.7273,Nevada,Connecticut
+39.3289,-116.6312,38.3566,-92.458,Nevada,Missouri
+39.3289,-116.6312,40.1907,-74.6728,Nevada,New Jersey
+47.3826,-120.4472,39.3289,-116.6312,Washington,Nevada
+39.3289,-116.6312,31.4757,-99.3312,Nevada,Texas
+39.3289,-116.6312,35.5889,-97.4943,Nevada,Oklahoma
+39.3289,-116.6312,44.0687,-72.6658,Nevada,Vermont
+42.2596,-71.8083,39.3289,-116.6312,Massachusetts,Nevada
+39.3289,-116.6312,32.7794,-86.8287,Nevada,Alabama
+39.3289,-116.6312,32.7364,-89.6678,Nevada,Mississippi
+39.3289,-116.6312,38.4937,-98.3804,Nevada,Kansas
+37.1841,-119.4696,39.3289,-116.6312,California,Nevada
+39.3289,-116.6312,38.9896,-75.505,Nevada,Delaware
+39.3289,-116.6312,44.6243,-89.9941,Nevada,Wisconsin
+39.3289,-116.6312,33.9169,-80.8964,Nevada,South Carolina
+47.3826,-120.4472,32.7794,-86.8287,Washington,Alabama
+32.7794,-86.8287,44.6243,-89.9941,Alabama,Wisconsin
+47.3826,-120.4472,44.6243,-89.9941,Washington,Wisconsin
+44.6243,-89.9941,47.0527,-109.6333,Wisconsin,Montana
+47.3826,-120.4472,64.0685,-152.2782,Washington,Alaska
+47.3826,-120.4472,37.5347,-85.3021,Washington,Kentucky
+47.3826,-120.4472,41.6219,-72.7273,Washington,Connecticut
+47.3826,-120.4472,38.3566,-92.458,Washington,Missouri
+47.3826,-120.4472,40.1907,-74.6728,Washington,New Jersey
+47.3826,-120.4472,31.4757,-99.3312,Washington,Texas
+47.3826,-120.4472,44.0687,-72.6658,Washington,Vermont
+47.3826,-120.4472,42.2596,-71.8083,Washington,Massachusetts
+47.3826,-120.4472,38.4937,-98.3804,Washington,Kansas
+47.3826,-120.4472,37.1841,-119.4696,Washington,California
+47.3826,-120.4472,38.9896,-75.505,Washington,Delaware
+47.3826,-120.4472,33.9169,-80.8964,Washington,South Carolina
+42.2596,-71.8083,37.1841,-119.4696,Massachusetts,California
+42.2596,-71.8083,41.5378,-99.7951,Massachusetts,Nebraska
+37.1841,-119.4696,64.0685,-152.2782,California,Alaska
+38.4937,-98.3804,64.0685,-152.2782,Kansas,Alaska
+64.0685,-152.2782,38.9896,-75.505,Alaska,Delaware
+38.6409,-80.6227,64.0685,-152.2782,West Virginia,Alaska
+64.0685,-152.2782,41.6219,-72.7273,Alaska,Connecticut
+38.3566,-92.458,38.9896,-75.505,Missouri,Delaware
+38.4937,-98.3804,38.9896,-75.505,Kansas,Delaware
+40.1907,-74.6728,38.9896,-75.505,New Jersey,Delaware
+41.6219,-72.7273,38.9896,-75.505,Connecticut,Delaware
+40.8781,-77.7996,38.9896,-75.505,Pennsylvania,Delaware
+38.4937,-98.3804,41.6219,-72.7273,Kansas,Connecticut
+38.4937,-98.3804,32.6415,-83.4426,Kansas,Georgia
+40.1907,-74.6728,41.6219,-72.7273,New Jersey,Connecticut
+40.1907,-74.6728,31.4757,-99.3312,New Jersey,Texas
+40.1907,-74.6728,38.3566,-92.458,New Jersey,Missouri
+40.1907,-74.6728,42.9957,-107.5512,New Jersey,Wyoming
+40.1907,-74.6728,37.5347,-85.3021,New Jersey,Kentucky
+34.8938,-92.4426,40.1907,-74.6728,Arkansas,New Jersey
+44.0687,-72.6658,40.1907,-74.6728,Vermont,New Jersey
+33.9169,-80.8964,40.1907,-74.6728,South Carolina,New Jersey
+33.9169,-80.8964,38.3566,-92.458,South Carolina,Missouri
+33.9169,-80.8964,31.4757,-99.3312,South Carolina,Texas
+44.0687,-72.6658,31.4757,-99.3312,Vermont,Texas
+44.0687,-72.6658,37.5347,-85.3021,Vermont,Kentucky
+42.9957,-107.5512,37.5347,-85.3021,Wyoming,Kentucky
+34.8938,-92.4426,42.9957,-107.5512,Arkansas,Wyoming
+34.8938,-92.4426,47.4501,-100.4659,Arkansas,North Dakota
+47.4501,-100.4659,44.3509,-114.613,North Dakota,Idaho
+35.5889,-97.4943,47.4501,-100.4659,Oklahoma,North Dakota
+35.5889,-97.4943,32.7364,-89.6678,Oklahoma,Mississippi
+35.5889,-97.4943,40.2862,-82.7937,Oklahoma,Ohio

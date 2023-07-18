@@ -1,0 +1,10 @@
+# CSC111 Winter 2023: Python libraries we'll be using this semester.
+
+# Testing and code checking
+hypothesis
+pytest
+python-ta~=2.4.2
+
+# Graphics and data visualization
+plotly>=5.8,<5.9
+pandas~=1.5.3
