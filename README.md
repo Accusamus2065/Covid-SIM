@@ -1,5 +1,7 @@
 # CSC111 Project: Simulation and Map Visualization of COVID-19 Spreading Affected By Various Disease Control Policies
 
+### This project is Copyright (c) 2023 Marshal Guo, Yibin Cui, Zherui Zhang.
+
 Disclaimer: This project is not against any particular method or policy implemented by any world government. We respect and don't discriminate against any different undertaking that each governing body opted to do so because we must acknowledge there's no one solution that fits all situations.
 
 With the COVID-19 pandemic drawing nearly to an end, it's an opportunity to reflect on the event and learn how to deal with an epidemic on a global scale to better prepare us for the future. **The main goal is to study how some parameters would affect the spread of COVID-19 in the selected states in the United States.** These parameters include lockdown, isolation strictness, vaccination rate, and mask-wearing mandate in a state.
