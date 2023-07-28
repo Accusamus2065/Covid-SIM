@@ -91,7 +91,7 @@ Then an unlucky state is randomly picked to be the origin of COVID-19, and the `
 When the infection process finishes, the data will be saved as a new csv file using the `graph_to_csv` function.
 Finally, `plot_diagram` is called to create the diagram representation of the infection process.
 
-![Project Image](project_im2.png)
+![Project Image](/assets/project_im2.png)
 
 This is the visual representation of the infection process, with all default parameters, with the dataset as 'states_full_people_not_full.csv'
 
@@ -107,16 +107,16 @@ For our project, we have provided the datasets for you. The zip file named data 
 To run our program, you may open the file named main.py. We have implemented a main() function to start our COVID-19 simulation, and we have created a main block at the bottom of the file. So, when you run this file in the python console, the simulation begins.
 
 By the time the python console pops up, you should see this sentence printed:
-![Image 1](image1.png)
+![Image 1](assets/image1.png)
 
 For experimenting with changing attributes of a state that would affect outcomes, you may enter Y. However, if you enter N or other inputs, all states' attributes will be initialized to the default value. We recommend you to enter Y only if you are experimenting with a csv file containing only a few states because it would be a bit time-consuming if you change many states' attributes. However, you are more than welcome to try if you want to.
 
 Assuming you entered Y for that question, you should see these sentences printed:
-![Image 2](image2.png)
+![Image 2](assets/image2.png)
 
 You will be asked to change the isolation attribute of a state named Alaska. By the sentence in brackets, you are encouraged to enter a float from 1.0 to 10.0, and the float you enter will be the state's isolation attribute. However, if you enter a float outside the scope, this function will still proceed, because we didn't use check_contracts. But, you may not do that since that input violates the precondition of this function and the representation invariants of the State class.
 
-![Image 3](image3.png)
+![Image 3](assets/image3.png)
 
 The image above provides an example of how you may respond to each question. After setting the four attributes, the function iterates, and you are able to change the next state's attribute question. After you finish modifying all states' attributes, the function will proceed. Worth mentioning that for answering lockdown attributes, it is only set to True if you enter T. If you enter F or other input, it will be set to False. Note that all of these attributes will have an impact on the outcome of the simulation. You may refer to the algorithm section above or the function's docstrings in each python file we submitted to understand how the algorithm works.
 
@@ -134,26 +134,12 @@ I will paste a few images of the final results below for reference only.
 
 Example graph of mutual contagion among the states:
 
-Image 1
-
-Image 2
+![image](assets/image4.png)
+![image](assets/image6.png)
 
 Example graph of no cross-transmission of viruses between each state (change state's attributes):
 
-Image 3
-
-Changes to your project plan
-
-Optimizing and constantly adapting to new timelines, we made some changes to our implementation of this simulation, and the final outcome deviated slightly.
-
-First of all, we did more research on how disease spreads. Thus we came across the SIR and learned that the $R_0$ approach we intended to use is a subset knowledge of the SIR model. Thus we based our spreading algorithm on the new math.
-
-Secondly, as we tried to implement the timeline feature of the simulation; however, we found the action of one state infecting multiple states and all these states undergoing the infection in parallel couldn't proceed without using thread parallelism. Although we tried to learn, we realized we had spent too much time getting bogged down by such a time-consuming feature and chose to drop that feature.
-
-Due to the pressing deadline, we quit making the state select feature where you could hover your cursor to get the infected cases of each state. We changed our plan of having a window-based UI to allow human input to a console-based UI.
-Since our algorithm was already complex and we applied what we newly learned from research such as the SIR algorithm and the things we were taught in class such as recursion in infection_process(), we didn't make query features for the statistics.
-
-As we ran low on time from all the debugging, we deviated the result from seeing different accumulated cases in each state for making comparisons to displaying the different patterns of the graph structure of infection due to the parameters given in the input.
+![image](assets/image5.png)
 
 Discussion
 
