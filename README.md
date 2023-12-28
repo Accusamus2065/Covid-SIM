@@ -64,7 +64,7 @@ A few notes:
 
     - A state can infect other states only if there are more than `TRANSMIT THRESHOLD` (a provided constant) infective people.
 
-    -A state that is under lockdown is harder to infect another state.
+    - A state that is under lockdown is harder to infect another state.
 
     - For every infected people, their infected days are also increased by one in each day of the infection process.
 
@@ -163,10 +163,16 @@ In conclusion, the project was a great exercise for designing, implementing, deb
 
 Otherwise, we would find ourselves spending hours researching and debugging; as a result, the timeline gets pushed, then some interesting features we have had envisioned to implement won't be possible. The most precious takeaway is that we learned to bypass time-consuming obstacles to not let our grand scheme be affected.
 
-References
+## References
 
-Gill, Kieran. “State Populations.” Gist, 12 Nov. 2020, https://gist.github.com/kierangilliam/f80bda279998d0485a55f5e4f0ccaf40.
-Interactive Web-Based Data Visualization with R, Plotly, and Shiny, 19 Dec. 2019, https://plotly-r.com
-Musa, Salihu S, et al. “Estimation of Exponential Growth Rate and Basic Reproduction Number of the Coronavirus Disease 2019 (COVID-19) in Africa - Infectious Diseases of Poverty.” Estimation of Exponential Growth Rate and Basic Reproduction Number of the Coronavirus Disease 2019 (COVID-19) in Africa, BioMed Central, 16 July 2020, https://idpjournal.biomedcentral.com/articles/10.1186/s40249-020-00718-y.
-Rocks, Tom, director. Oxford Mathematician Explains SIR Disease Model for COVID-19 (Coronavirus). YouTube, YouTube, 18 Mar. 2020, https://www.youtube.com/watch?v=NKMHhm2Zbkw. Accessed 27 Mar. 2023.
-Rozanec, Matias. “Distance between Geographic Centers of All US States.” Github, 26 Jan. 2022, https://gist.github.com/ro
+# References
+
+1. **Gill, Kieran.** "State Populations." Gist, 12 Nov. 2020. [Access the Data](https://gist.github.com/kierangilliam/f80bda279998d0485a55f5e4f0ccaf40).
+
+2. **Interactive Web-Based Data Visualization with R, Plotly, and Shiny.** 19 Dec. 2019. [Learn More](https://plotly-r.com).
+
+3. **Musa, Salihu S., et al.** "Estimation of Exponential Growth Rate and Basic Reproduction Number of the Coronavirus Disease 2019 (COVID-19) in Africa." Infectious Diseases of Poverty, BioMed Central, 16 July 2020. [Read the Article](https://idpjournal.biomedcentral.com/articles/10.1186/s40249-020-00718-y).
+
+4. **Rocks, Tom (Director).** "Oxford Mathematician Explains SIR Disease Model for COVID-19 (Coronavirus)." YouTube, 18 Mar. 2020. [Watch the Video](https://www.youtube.com/watch?v=NKMHhm2Zbkw). Accessed 27 Mar. 2023.
+
+5. **Rozanec, Matias.** "Distance between Geographic Centers of All US States." Github, 26 Jan. 2022. [View the Gist](https://gist.github.com/roz).
